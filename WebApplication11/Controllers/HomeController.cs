@@ -13,6 +13,10 @@ namespace WebApplication11.Controllers
             return View();
         }
 
+        public ActionResult testaction()
+        {
+            return View();
+        }
         public ActionResult Indexx()
         {
             return View();
